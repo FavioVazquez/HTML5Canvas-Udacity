@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/canvasEDX.iml" filepath="$PROJECT_DIR$/.idea/canvasEDX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../canvasUdacity/.idea/canvasUdacity.iml" filepath="$PROJECT_DIR$/../canvasUdacity/.idea/canvasUdacity.iml" />
     </modules>
   </component>
 </project>
